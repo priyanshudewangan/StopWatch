@@ -24,8 +24,6 @@ This project was created as part of my beginner JavaScript projects.
 <img width="822" height="674" alt="image" src="https://github.com/user-attachments/assets/dafbcfd8-6d5b-4a3a-9f9f-04ff599d7f69" />
 
 
-*(Replace `screenshot.png` with your actual screenshot if you add one)*
-
 ---
 
 ## ⚡ How to Use
